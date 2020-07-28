@@ -1,0 +1,24 @@
+//1-helpers
+@import '../styles/1-helpers/mixins';
+@import '../styles/1-helpers/functions';
+@import '../styles/1-helpers/variables';
+
+//2-tools
+
+//3-basics
+@import '../styles/3-basics/reset';
+@import '../styles/3-basics/base';
+@import '../styles/3-basics/buttons';
+@import '../styles/3-basics/fonts';
+@import '../styles//3-basics/links';
+@import '../styles/3-basics/header';
+@import '../styles/3-basics/selection-colors';
+
+//4-layout
+@import '../styles/4-layout/footer';
+@import '../styles/4-layout/navigation';
+@import '../styles/4-layout/mainContent';
+
+//5-modules
+
+//6-pages
